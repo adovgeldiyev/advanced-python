@@ -1,7 +1,7 @@
 # Advanced-python<br>
 ## Problem 1: Stem and Leaf<br>
 Find on the D2L three “StemAndLeaf” datafiles. Write code that….<br>
-### a) 
+### a)
 Greets the user.<br>
 ### b) 
 Asks the user to input a 1, 2 or 3.<br>
